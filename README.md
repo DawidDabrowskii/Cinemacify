@@ -1,3 +1,8 @@
+# Link for DEMO - cinemacify.netlify.app
+
+# I did use my own API key to run fetch requests so be sure to download one for Yourself if you want to check it. 
+Link for api https://www.themoviedb.org/documentation/api - be sure to log-in.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
