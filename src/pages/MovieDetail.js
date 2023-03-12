@@ -19,7 +19,7 @@ export const MovieDetail = () => {
       setMovie(data);
     }
     fetchMovie();
-  });
+  }, [params.id]);
 
   useTitle(`${movie.title}`);
 
